@@ -1,0 +1,9 @@
+streamlit
+nltk
+sklearn
+
+flask
+gunicorn
+scikit-learn
+pandas
+numpy
